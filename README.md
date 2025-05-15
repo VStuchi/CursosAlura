@@ -1,6 +1,6 @@
 # 📘 Cursos Alura
 
-Repositório com anotações e certificados dos cursos realizados na [Alura](https://www.linkedin.com/in/viniciusstuchi/).
+Repositório com anotações e certificados dos cursos realizados na [Alura](https://www.linkedin.com/in/viniciusstuchi/details/certifications/).
 
 ## 1. [Python para Data Science: Primeiros Passos](https://cursos.alura.com.br/certificate/bee0c6d1-31ba-4b2f-933c-3eb46076f111) 
 
