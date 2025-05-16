@@ -1,12 +1,12 @@
 # 🎓 Cursos Alura
 
 📚 Repositório com anotações e conteúdos dos cursos realizados na Alura.  
-🧾 Os certificados de conclusão estão disponíveis no meu perfil do [LinkedIn](https://www.linkedin.com/in/seu-perfil/details/certifications/).
+🧾 Os certificados de conclusão estão disponíveis no meu perfil do [LinkedIn](https://www.linkedin.com/in/viniciusstuchi/details/certifications/).
 
 ---
 
 ## 🐍 1. Python para Data Science: Primeiros Passos
-
+  
 <details>
 <summary><strong>🔹 1.1 Funções e linguagem de alto nível</strong></summary>
 
